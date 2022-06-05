@@ -95,3 +95,11 @@ variable "ha_enabled" {
   type    = bool
   default = false
 }
+
+variable "TF_VAR_azure_client_id" {
+}
+
+variable "AWS_SECRET_ACCESS_KEY" {
+}
+
+
