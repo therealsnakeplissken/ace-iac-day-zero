@@ -107,3 +107,9 @@ variable "TF_VAR_azure_tenant_id" {
 
 variable "TF_VAR_azure_client_secret" {
 }
+
+variable "TF_VAR_azure_subscription_id" {
+}
+
+variable "AWS_ACCESS_KEY_ID" {
+}
